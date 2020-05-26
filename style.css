@@ -6,14 +6,6 @@ body,html{
     height: 100%;
     font-family: "Open Sans",sans-serif;
 }
-
-
-
-
-
-
-
-
 .navbar{
   position: fixed;
   height: 80px;
@@ -47,9 +39,6 @@ body,html{
 .menu a:hover{
   color: #6ab04c;
 }
-
-
-
 .main-btn{
   display: none;
   position: absolute;
@@ -95,48 +84,6 @@ body,html{
     max-height: 500px;
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 .image-slider{
     width: 100%;
@@ -201,30 +148,17 @@ body,html{
     padding: 30px;
 }
 
-
-
-
-
 .par{
 
   text-align: center;
     margin-bottom: 50px;
-    padding: 50px;
-    
-    
-    
+    padding: 50px;  
 }
 .set-middle{
     background:  #acf1c1;
     margin-bottom: 100px;
     text-align: center;
 }
-
-
-
-
-
-
 
 .slidershow{
   width: 900px;
@@ -295,23 +229,6 @@ input[name="r"]{
 #r5:checked ~ .s1{
   margin-left: -80%;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 footer{
     background: #f1f1f1;
     padding: 90px 0;
